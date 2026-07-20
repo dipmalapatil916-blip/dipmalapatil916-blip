@@ -32,6 +32,53 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+## 🚀 Featured Projects
+
+### 📚 DeskGuard – Smart Library Seat Allocation System
+> A web-based application that helps students reserve and manage library seats efficiently.
+
+**Tech Stack:** `Java` `HTML` `CSS` `JavaScript`
+
+---
+
+### 🌾 KrishiMitra – Smart Farmer Support Platform
+> A multilingual platform designed to help farmers access government schemes, eligibility information, and voice-assisted guidance.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+---
+
+### 🎤 Voice Biomarker Disease Tracking System
+> An AI-assisted healthcare project that analyzes voice samples to support disease monitoring and health assessment.
+
+**Tech Stack:** `AI` `HTML` `CSS` `JavaScript`
+
+---
+
+### 💳 ATM PIN Verification System
+> A Java console application that securely verifies ATM PINs with a maximum of three attempts.
+
+**Tech Stack:** `Core Java`
+
+---
+
+### ☕ Java Practice Repository
+> A collection of Java programs covering OOP, Collections Framework, Exception Handling, JDBC, Servlets, and problem-solving exercises.
+
+**Tech Stack:** `Core Java`
+## 🌱 Currently Learning
+
+- ☕ Java Full Stack Development
+- 📊 Data Structures & Algorithms (DSA)
+- 🚀 Building real-world projects to strengthen my development skills
+- 💡 Continuously exploring new technologies and improving my problem-solving abilities
+## 🎯 Goals
+
+- 💼 Secure a Java Full Stack Developer Internship
+- ☕ Master Spring Boot
+- 🚀 Build impactful real-world applications
+- 📚 Strengthen DSA and problem-solving skills
+- 🤝 Contribute to open-source projects
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=dipmalapatil916-blip&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=dipmalapatil916-blip&theme=dark&hide_border=false)<br/>
@@ -40,19 +87,5 @@
 ---
 [![](https://komarev.com/ghpvc/?username=dipmalapatil916-blip&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
-<!--
-**dipmalapatil916-blip/dipmalapatil916-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
