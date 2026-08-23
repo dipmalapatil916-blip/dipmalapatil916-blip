@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<br><br>I'm **Dipmala Vijay Patil**, a third-year **Computer Science Engineering** student from India, currently focused on **Java Full Stack Development**.<br><br>💻 I have hands-on experience with **Core Java, Advanced Java, OOP, Collections Framework, Exception Handling, JDBC, and Servlets**, and I'm expanding my skills by learning **Spring Boot, SQL, and Data Structures & Algorithms**.<br><br>🚀 I enjoy building practical projects, participating in hackathons, and applying my knowledge to solve real-world problems.<br><br>🌱 Every project helps me strengthen my programming, backend development, and teamwork skills while continuing to grow as a developer.<br><br>🎯 **Goal:** To become a skilled **Java Full Stack Developer** and contribute to building reliable and impactful software solutions.
+<br><br>I'm **Dipmala Vijay Patil**, a third-year **Computer Science Engineering** student from India, currently focused on **Java Full Stack Development**.<br><br>💻 I have hands-on experience with **Core Java, Advanced Java, OOP, Collections Framework, Exception Handling, JDBC, and Servlets**, and I'm expanding my skills by learning **Spring Boot, SQL, and Data Structures & Algorithms**.<br><br>🚀 I enjoy applying my knowledge to solve real-world problems.<br><br>🌱 Every project helps me strengthen my programming, backend development, and teamwork skills while continuing to grow as a developer.<br><br>🎯 **Goal:** To become a skilled **Java Full Stack Developer** and contribute to building reliable and impactful software solutions.
 
 ## 🌐 Socials:
 
