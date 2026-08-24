@@ -43,6 +43,19 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 InternVault AI – AI-Powered Internship Platform
+
+> An AI-powered platform designed to help students discover internship opportunities, improve their profiles, and get intelligent career guidance.
+
+**Tech Stack:** `AI` `HTML` `CSS` `JavaScript` `Java` `Spring Boot` `MySQL`
+
+### 🛍️ Aurel Luxury – Premium E-Commerce Website
+
+> A modern luxury shopping website designed to provide a premium online shopping experience with an elegant interface, product browsing, product details, shopping cart, and a seamless user experience.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript` `Java` `Servlets` `JDBC` `MySQL`
+
+
 ### 📚 DeskGuard – Smart Library Seat Allocation System
 
 > A web-based application that helps students reserve and manage library seats efficiently.
@@ -50,15 +63,6 @@
 **Tech Stack:** `Java` `HTML` `CSS` `JavaScript`
 
 ---
-
-### 🌾 KrishiMitra – Smart Farmer Support Platform
-
-> A multilingual platform designed to help farmers access government schemes, eligibility information, and voice-assisted guidance.
-
-**Tech Stack:** `HTML` `CSS` `JavaScript`
-
----
-
 ### 🎤 Voice Biomarker Disease Tracking System
 
 > An AI-assisted healthcare project that analyzes voice samples to support disease monitoring and health assessment.
